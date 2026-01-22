@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
   "channel": "stable",
-  "version": "1.0.1",
-  "url": "https://github.com/FrancoisCreoX/PodAppRedux-public/releases/download/v1.0.1/PodApp-1.0.1.zip",
+  "version": "1.0.0",
+  "url": "https://github.com/FrancoisCreoX/PodAppRedux-public/releases/download/v1.0.0/PodApp-1.0.0.zip",
   "sha256": "2a19b687bcaaab3c5c9c5be24799c3978dad39aacd3dc61119e03cee8d981c43"
 }
