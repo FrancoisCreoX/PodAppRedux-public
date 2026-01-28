@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "Added console and permission error fix",
-  "version": "1.0.1",
-  "url": "https://github.com/FrancoisCreoX/PodAppRedux-public/releases/download/v1.0.1/PodApp-1.0.1.zip",
-  "sha256": "75ff3481f98a2d14a85bd1f49a23a0c4dffc8dcb57b2add84d1314306322b299"
+  "reason": "Fixed missing table causing crash",
+  "version": "1.0.2",
+  "url": "https://github.com/FrancoisCreoX/PodAppRedux-public/releases/download/v1.0.2/PodApp-1.0.2.zip",
+  "sha256": "31ca5de33a9ce7803d3940d53dc8a27e436a8208c267612931c57d6496909996"
 }
