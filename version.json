@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "Fixing upload",
-  "version": "1.0.12",
-  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.12/PodApp-1.0.12.zip",
-  "sha256": "86be7736cf568c7686ba8f28afff0f9b82ff8483684530c3b2b49452bef33ef7"
+  "reason": "Trying to fix upload",
+  "version": "1.0.13",
+  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.13/PodApp-1.0.13.zip",
+  "sha256": "4ee82064ed19a425476484a1fe7ff5c58af0178eff68bc924a6cc193d771a2cb"
 }
