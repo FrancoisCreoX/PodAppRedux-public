@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "New Features",
-  "version": "1.0.10",
-  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.10/PodApp-1.0.10.zip",
-  "sha256": "8fef16339eee2978842bf799d84d856f09bae59ca18e3111b43779aca19bb078"
+  "reason": "List bug fixed. Updated heatmaps",
+  "version": "1.0.11",
+  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.11/PodApp-1.0.11.zip",
+  "sha256": "2c192fc9ba6ec44b8ec7296601eceee2e752b12235536d978ce9208bf51c8ddd"
 }
