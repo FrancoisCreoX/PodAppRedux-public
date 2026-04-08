@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "Update acceleration graph and calcs",
-  "version": "1.0.15",
-  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.15/PodApp-1.0.15.zip",
-  "sha256": "57bf890b8b66cc8ce1b7665ace003ee8043a1ab1fb52e746368609fc9f940c14"
+  "reason": "Updated drive names. Now matches selection",
+  "version": "1.0.16",
+  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.16/PodApp-1.0.16.zip",
+  "sha256": "04c05afc5f22b22afd080995d572e8151b362af8c3a7e6429f862ae7b594c2b2"
 }
