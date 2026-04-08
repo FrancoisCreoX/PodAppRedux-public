@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "fixing upload",
-  "version": "1.0.14",
-  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.14/PodApp-1.0.14.zip",
-  "sha256": "8cdc5c0e8b0650db1b34527fc32b1f5e705f9b3516faf16a5255b7387e1b004d"
+  "reason": "Update acceleration graph and calcs",
+  "version": "1.0.15",
+  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.15/PodApp-1.0.15.zip",
+  "sha256": "57bf890b8b66cc8ce1b7665ace003ee8043a1ab1fb52e746368609fc9f940c14"
 }
