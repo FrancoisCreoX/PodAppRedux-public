@@ -1,7 +1,7 @@
 {
   "app": "PodApp",
-  "reason": "Release v1.0.17",
-  "version": "1.0.17",
-  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.17/PodApp-1.0.17.zip",
-  "sha256": "04a0281a6455a7331f06e608635b754589a8f82f4e4ebdfcc61f2c2b3ea0b467"
+  "reason": "Release v1.0.18",
+  "version": "1.0.18",
+  "url": "https://github.com/francoisCreoX/PodAppRedux-public/releases/download/v1.0.18/PodApp-1.0.18.zip",
+  "sha256": "298171e73365a3940da940c268bf0336b0ae021090a0ccd2a05a9e9911339a0e"
 }
